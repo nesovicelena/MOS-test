@@ -3,6 +3,9 @@ audio/
 audio_for_MOS/
 audios/
 
+# MOS scores
+mos_scores.json
+
 # Python cache
 __pycache__/
 *.pyc
