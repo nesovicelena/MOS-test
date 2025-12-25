@@ -28,7 +28,7 @@ Run the MOS test script:
 ```bash
 python mos_test.py
 ```
-All results are being saved to the mos_scores.json file, please send me that file after you finish. Thank you !!!
+All results are being saved to the mos_scores.json file, please send me that file after you finish. Thank you and happy listening !!!
 
 
 
